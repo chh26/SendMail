@@ -1,0 +1,7 @@
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\bin\Debug\SendMailByExcel.exe.config
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\bin\Debug\SendMailByExcel.exe
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\bin\Debug\SendMailByExcel.pdb
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\obj\Debug\SendMailByExcel.csprojResolveAssemblyReference.cache
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\obj\Debug\SendMailByExcel.csproj.CoreCompileInputs.cache
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\obj\Debug\SendMailByExcel.exe
+C:\Users\HUNG-HSUN\Desktop\GitHub\chh26\SendMail\SendMailByExcel\obj\Debug\SendMailByExcel.pdb
